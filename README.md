@@ -4,10 +4,6 @@
 
 1. Clone this repository
 
-   ```bash
-   git clone https://github.com/indraarianggi/nodejs-sequelize-mysql-api.git
-   cd nodejs-sequelize-mysql-api
-   ```
 
 2. Install the npm packages
 
@@ -23,7 +19,7 @@
 
 3. Congfigure environment settings
 
-   Create a file with the following name and location `.env` and copy the contents from `.env.example` into it. Replace the values with your specific configuration. Don't worry, this file is in the `.gitignore` so it won't get pushed to github.
+   Create a file with the following name and location `.env`.
 
    ```javasscript
     NODE_ENV=development
